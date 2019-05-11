@@ -5,7 +5,7 @@ This is a pong file utilizing JavaFX
 Hello 
 
 This program utilizes javafx, there are many ways to install javafx but i found it easiest to just install java JDK 8 
-due to i being included in the JDK.
+due to it being included in the JDK.
 
 
 1. Install java JDK 8 (included in this repository)
