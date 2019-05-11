@@ -1,6 +1,9 @@
 # DPR-212-Final-Pong
 This is a pong file utilizing JavaFX 
 
+INSTALL JDK 8 TO RUN PROGRAM  
+LINK --> https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 
 Hello 
 
